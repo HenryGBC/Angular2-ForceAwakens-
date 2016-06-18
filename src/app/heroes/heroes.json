@@ -1,0 +1,37 @@
+[
+    { 
+        "id": 11,
+        "name": "chewbee",
+        "twitter": "@im_chevy"
+    },
+    { 
+        "id": 12,
+        "name": "rey",
+        "twitter": "@im_rey"
+    },
+    { 
+        "id": 13,
+        "name": "Han Solo",
+        "twitter": "@Solo"
+    },
+    { 
+        "id": 14,
+        "name": "Finn",
+        "twitter": "@im_finn"
+    },
+    { 
+        "id": 15,
+        "name": "Ar2d2",
+        "twitter": "@ar2d2"
+    },
+    { 
+        "id": 16,
+        "name": "Leia",
+        "twitter": "@leia"
+    },
+    { 
+        "id": 17,
+        "name": "luke",
+        "twitter": "@Luke"
+    }
+]
